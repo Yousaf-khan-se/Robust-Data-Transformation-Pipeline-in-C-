@@ -1,0 +1,11 @@
+Processing input file...
+Read number: 10
+Processed number: 10
+Read number: 5
+Processed number: 20
+Read number: 0
+Error: Division by zero encountered.
+Read number: abc
+Error: Invalid number format for 'abc'
+Read number: 15
+Processed number: 6
